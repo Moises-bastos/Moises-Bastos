@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor em formação | Estudando TypeScript, JavaScript, HTML e CSS
 
-Sou apaixonado por tecnologia e estou desenvolvendo minhas habilidades em programação. Atualmente, foco em criar projetos simples com **TypeScript** para praticar lógica, manipulação de arrays, e interação com o usuário.
+Sou fascinado por tecnologia e estou desenvolvendo minhas habilidades em programação. Atualmente, foco em criar projetos simples com **TypeScript** para praticar lógica, manipulação de arrays, e interação com o usuário.
 
 ---
 
@@ -37,7 +37,7 @@ Você pode ver meus projetos mais recentes aqui no GitHub. Estou sempre pratican
 
 ## ✉️ Como falar comigo
 
-- 📧 moises@email.com *(substitua pelo seu e-mail real, se quiser)*
+- 📧 moisebastosousa@gmail.com
 
 
 
