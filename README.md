@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Moisés Bastos De Sousa
 
-<!--
-**Moises-bastos/Moises-Bastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desenvolvedor em formação | Estudando TypeScript, JavaScript, HTML e CSS
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou desenvolvendo minhas habilidades em programação. Atualmente, foco em criar projetos simples com **TypeScript** para praticar lógica, manipulação de arrays, e interação com o usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que estou aprendendo
+
+- 📘 TypeScript
+- 🟨 JavaScript
+- 🧱 HTML e CSS
+- 🔧 Lógica de Programação
+
+---
+
+## 🧠 O que estou praticando
+
+- Arrays (`filter`, `splice`, `map`, etc.)
+- Entrada de dados com `prompt` e `alert`
+- Criação de pequenos sistemas com menus
+- Organização de código e boas práticas
+- classes
+---
+
+## 📁 Meus projetos
+
+Você pode ver meus projetos mais recentes aqui no GitHub. Estou sempre praticando com exercícios e desafios como:
+
+- Gerenciador de Números
+- Cadastro de Nomes
+- Filtros com Arrays
+- Menus Interativos
+
+---
+
+## ✉️ Como falar comigo
+
+- 📧 moises@email.com *(substitua pelo seu e-mail real, se quiser)*
+
+
+
