@@ -1,6 +1,4 @@
- Olá! Eu sou o Moisés Bastos De Sousa
-
-👨‍💻 Desenvolvedor em formação | TypeScript, JavaScript, HTML e CSS
+Desenvolvedor em formação | TypeScript, JavaScript, HTML e CSS
 
  🚀 Tecnologias:
 
