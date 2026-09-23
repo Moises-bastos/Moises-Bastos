@@ -1,9 +1,12 @@
-Desenvolvedor em formação | TypeScript, JavaScript, HTML e CSS
+Desenvolvedor 
 
  🚀 Tecnologias:
 
-- 📘 TypeScript
-- 🟨 JavaScript
-- 🧱 HTML e CSS
-- 🔧 Lógica de Programação
+-  TypeScript
+-  JavaScript
+-  React
+-  supabese/postgreSQL
+-  Node js
+-  HTML e CSS
+  
 
